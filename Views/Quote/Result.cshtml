@@ -1,0 +1,10 @@
+<h1> success</h1>
+ 
+  @foreach ( var quote in @ViewBag.allquotes){
+     <p> @quote["username"]</p>
+     <p> @quote["quotesmsg"]</p>
+     <hr>
+ } 
+<form action="/">
+                <button type="submit">Return</button>
+            </form>

@@ -1,0 +1,8 @@
+C:\Users\rajagopara01\Desktop\DojoAssignments\csharp\quotingdojo\bin\Debug\netcoreapp1.1\quotingdojo.deps.json
+C:\Users\rajagopara01\Desktop\DojoAssignments\csharp\quotingdojo\bin\Debug\netcoreapp1.1\quotingdojo.runtimeconfig.json
+C:\Users\rajagopara01\Desktop\DojoAssignments\csharp\quotingdojo\bin\Debug\netcoreapp1.1\quotingdojo.runtimeconfig.dev.json
+C:\Users\rajagopara01\Desktop\DojoAssignments\csharp\quotingdojo\obj\Debug\netcoreapp1.1\quotingdojo.AssemblyInfo.cs
+C:\Users\rajagopara01\Desktop\DojoAssignments\csharp\quotingdojo\bin\Debug\netcoreapp1.1\quotingdojo.dll
+C:\Users\rajagopara01\Desktop\DojoAssignments\csharp\quotingdojo\bin\Debug\netcoreapp1.1\quotingdojo.pdb
+C:\Users\rajagopara01\Desktop\DojoAssignments\csharp\quotingdojo\obj\Debug\netcoreapp1.1\quotingdojo.dll
+C:\Users\rajagopara01\Desktop\DojoAssignments\csharp\quotingdojo\obj\Debug\netcoreapp1.1\quotingdojo.pdb
